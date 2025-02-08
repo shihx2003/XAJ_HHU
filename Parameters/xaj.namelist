@@ -1,0 +1,11 @@
+&xaj_namelist
+    nzone = 1
+    nstep = 1000
+    dt = 3600.0
+    start_year = 2016
+    start_month = 1
+    start_day = 1
+    start_hour = 0
+    !restart_file = "./Restarts/restart_file_2019101308.csv"
+    dir_restart_out = './Restarts'
+/
