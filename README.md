@@ -10,4 +10,4 @@ In this project, the executable was unpacked using `pyinstxtractor.py` to extrac
 After extraction and decompilation, the model has been thoroughly tested and verified. The execution results from the decompiled Python code match the original results produced by the `.exe` version, confirming the accuracy and integrity of the process.
 
 ## Model structure
-![XAJ_model](doc\XAJ_model.png)
+![XAJ_model](doc/XAJ_model.png)
