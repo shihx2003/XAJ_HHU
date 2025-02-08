@@ -8,3 +8,6 @@ The original version of the model was written in Python and then packaged into a
 In this project, the executable was unpacked using `pyinstxtractor.py` to extract the `.pyc` files. These `.pyc` files were then decompiled using [PyLingual](https://pylingual.io/).
 
 After extraction and decompilation, the model has been thoroughly tested and verified. The execution results from the decompiled Python code match the original results produced by the `.exe` version, confirming the accuracy and integrity of the process.
+
+## Model structure
+![XAJ_model](doc\XAJ_model.png)
