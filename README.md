@@ -1,7 +1,7 @@
 # XAJ_HHU
 **Source code of Xinanjiang Model from Hohai University**
 
-The Xinanjiang model is available with test data for download from the **College of Hydrology and Water Resources** at Hohai University. You can access the model and documentation on the [Xinanjiang Model page](https://shxy.hhu.edu.cn/research/xaj).
+The Xinanjiang model is available with test data for download from the [**College of Hydrology and Water Resources**](https://shxy.hhu.edu.cn/) at Hohai University. You can access the model and documentation on the [Xinanjiang Model page](https://shxy.hhu.edu.cn/research/xaj).
 
 The original version of the model was written in Python and then packaged into an executable file using PyInstaller. 
 
